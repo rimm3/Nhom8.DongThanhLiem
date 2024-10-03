@@ -11,11 +11,6 @@ Web Developer and Designer
 **Code Lyoko** is a French animated television series created in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and threatened by a malevolent entity known as X.A.N.A. This is a movie that I love very much!
 
 ## Thông tin cá nhân  
-- **Giới tính:** Nam  
-- **Email:** thanhliem2210@gmail.com  
-- **Địa chỉ:** Hồ Chí Minh City  
-- **Số điện thoại:** 0123-456-789  
-
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [liemthanh2210@gmail.com](mailto:liemthanh2210@gmail.com)
 * 💻 Software Engineer
